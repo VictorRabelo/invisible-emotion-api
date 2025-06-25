@@ -1,0 +1,6 @@
+C:\projects\invisible-emotion-api\src\Application\obj\Debug\net8.0\InvisibleEmotionDetector.Application.csproj.AssemblyReference.cache
+C:\projects\invisible-emotion-api\src\Application\obj\Debug\net8.0\InvisibleEmotionDetector.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\invisible-emotion-api\src\Application\obj\Debug\net8.0\InvisibleEmotionDetector.Application.AssemblyInfoInputs.cache
+C:\projects\invisible-emotion-api\src\Application\obj\Debug\net8.0\InvisibleEmotionDetector.Application.AssemblyInfo.cs
+C:\projects\invisible-emotion-api\src\Application\obj\Debug\net8.0\InvisibleEmotionDetector.Application.csproj.CoreCompileInputs.cache
+C:\projects\invisible-emotion-api\src\Application\obj\Debug\net8.0\InvisibleEmotionDetector.Application.sourcelink.json

@@ -1,0 +1,12 @@
+C:\projects\invisible-emotion-api\src\Domain\bin\Debug\net8.0\InvisibleEmotionDetector.Domain.deps.json
+C:\projects\invisible-emotion-api\src\Domain\bin\Debug\net8.0\InvisibleEmotionDetector.Domain.dll
+C:\projects\invisible-emotion-api\src\Domain\bin\Debug\net8.0\InvisibleEmotionDetector.Domain.pdb
+C:\projects\invisible-emotion-api\src\Domain\obj\Debug\net8.0\InvisibleEmotionDetector.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\invisible-emotion-api\src\Domain\obj\Debug\net8.0\InvisibleEmotionDetector.Domain.AssemblyInfoInputs.cache
+C:\projects\invisible-emotion-api\src\Domain\obj\Debug\net8.0\InvisibleEmotionDetector.Domain.AssemblyInfo.cs
+C:\projects\invisible-emotion-api\src\Domain\obj\Debug\net8.0\InvisibleEmotionDetector.Domain.csproj.CoreCompileInputs.cache
+C:\projects\invisible-emotion-api\src\Domain\obj\Debug\net8.0\InvisibleEmotionDetector.Domain.sourcelink.json
+C:\projects\invisible-emotion-api\src\Domain\obj\Debug\net8.0\InvisibleEmotionDetector.Domain.dll
+C:\projects\invisible-emotion-api\src\Domain\obj\Debug\net8.0\refint\InvisibleEmotionDetector.Domain.dll
+C:\projects\invisible-emotion-api\src\Domain\obj\Debug\net8.0\InvisibleEmotionDetector.Domain.pdb
+C:\projects\invisible-emotion-api\src\Domain\obj\Debug\net8.0\ref\InvisibleEmotionDetector.Domain.dll
